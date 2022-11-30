@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+}
+</style>
+<body>
+
+<h2>Harga Sepatu</h2>
+
+<table style="width 250%">
+    <tr>
+        <th>Nama Lengkap</th>
+        <th>Alamat Rumah</th>
+        <th>No. Telepon</th>
+    </tr>
+    <tr>
+        <td>Raihan Aidiyasa Shadiq</td>
+        <td>Jln. Girimekar Elok II A 43</td>
+        <td>081385898826</td>
+    </tr>
+</table>
+</body>
+</html>
